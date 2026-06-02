@@ -1,7 +1,3 @@
-
-
-
-
 class Employee:
 
     def __init__(self,name,age):   #constructor is a special method which is automatically called when   
