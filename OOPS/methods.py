@@ -25,4 +25,4 @@ class Employee:
 obj1=Employee("sidhesh",20,11)
 obj1.display()# All types of variables easily accessed inside function
 print(obj1.name)#Easily accessed
-print(obj1.age)
+print(obj1.age)#Easily acessed
