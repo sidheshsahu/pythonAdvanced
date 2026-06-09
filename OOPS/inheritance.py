@@ -13,6 +13,14 @@ class Dog(Animal):
         print(f"{self.name} says Woof!")
 
 
+
+
+class Cat(Animal):
+    def meow(self):
+        print(f"{self.name} says Meow!")
+
 dog1 = Dog("Tommy")
 dog1.speak()
 dog1.bark()
+cat1=Cat("kitty")
+cat1.meow()
