@@ -1,7 +1,3 @@
-
-
-
-
 class Employee:
     name="sahu"
     age=45

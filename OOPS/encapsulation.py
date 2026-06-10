@@ -1,6 +1,4 @@
 class Employee:
-    
-
     def __init__(self,name,age,standard):
         self.__name=name #private var
         self.age=age   #public var
