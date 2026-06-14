@@ -15,3 +15,5 @@ def fetch_data(url:str,path:str):
 
 response = fetch_data("https://example.com/data","/tmp/data.csv")
 print(response)
+
+#It is used for decorating the function 
