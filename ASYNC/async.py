@@ -11,7 +11,7 @@ async def main():
 asyncio.run(main())
 
 
-
+#If I use time here then it's become synchronous 
 
 
 
