@@ -2,7 +2,7 @@ import asyncio
 
 
 
-#Normal  Function synchronous 
+#Synchronous Function 
 
 def main():
   print("Hello world")
